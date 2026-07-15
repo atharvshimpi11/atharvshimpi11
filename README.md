@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+i am atharv shimpi 
+currently studying 1st year CE at NMIMS MPSTME 
+Learning basic web dev, and  
 <!--
 **atharvshimpi11/atharvshimpi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
